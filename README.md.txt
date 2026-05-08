@@ -1,3 +1,4 @@
+**Live Demo:** https://huggingface.co/spaces/Urwashanza/pdf-summarizer
 ---
 title: PDF Summarizer
 emoji: 📄
